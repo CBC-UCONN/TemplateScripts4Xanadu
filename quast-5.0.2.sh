@@ -2,7 +2,7 @@
 #SBATCH --job-name=QUAST_ASSEMBLY_STATS
 #SBATCH -N 1
 #SBATCH -n 1
-#SBATCH -c 16
+#SBATCH -c 1
 #SBATCH --partition=general
 #SBATCH --qos=general
 #SBATCH --mail-type=END
