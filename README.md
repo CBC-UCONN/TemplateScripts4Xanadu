@@ -46,7 +46,7 @@ fastqc -t 4 -o ./RAWfastqc_OUT ../01_raw_reads/${sample}*_R1*.fastq.gz ../01_raw
 3. Now, add files in your forked repository.  Once you have added all the scripts.  Create a pull request, by clicking Pull Requests.
 4. This will take you to another page, where it will shows a green tab, asking to create Pull request. CLick it.
 5. Further it will ask you to put a comment.  Add a short comment like name of Script(s) and submit it.
-6.  This will notify mus that a new version is available and ask us to merge.  Which we will take care of. 
+6.  This will notify us about a new changes (new scripts) and will ask us to merge/squash the pull.  Which we will take care of. 
 
 
 # We thank all the contributors for their efforts.
